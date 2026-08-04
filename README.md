@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
