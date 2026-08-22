@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
