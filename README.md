@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Two Pointers
 |  |
@@ -83,8 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
