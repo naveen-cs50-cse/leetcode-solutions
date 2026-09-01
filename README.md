@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
@@ -101,4 +104,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
