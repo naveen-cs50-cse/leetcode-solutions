@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0050-powx-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
