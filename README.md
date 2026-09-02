@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0050-powx-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
