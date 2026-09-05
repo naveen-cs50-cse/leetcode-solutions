@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
