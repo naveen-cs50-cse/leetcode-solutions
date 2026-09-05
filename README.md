@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0050-powx-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
