@@ -1,0 +1,17 @@
+#include <vector>
+
+class Solution {
+public:
+    int uniquePaths(int m, int n) {
+        // Use a 1D vector to store the number of unique paths to each cell in the current row
+        std::vector<int> dp(n, 1);
+
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
+                dp[j] += dp[j - 1];
+            }
+        }
+
+        return dp[n - 1];
+    }
+};
