@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
 | ------- |
