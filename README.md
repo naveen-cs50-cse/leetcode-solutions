@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 ## Backtracking
 |  |
 | ------- |
