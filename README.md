@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
