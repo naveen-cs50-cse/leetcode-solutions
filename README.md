@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
