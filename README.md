@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Manacher
 |  |
 | ------- |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0062-unique-paths) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
