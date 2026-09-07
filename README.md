@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
