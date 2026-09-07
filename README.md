@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
