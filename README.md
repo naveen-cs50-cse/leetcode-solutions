@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0835-image-overlap](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
