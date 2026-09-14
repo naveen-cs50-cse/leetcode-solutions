@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
