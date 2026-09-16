@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3903-smallest-stable-index-i](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Newton's Method
 |  |
 | ------- |
