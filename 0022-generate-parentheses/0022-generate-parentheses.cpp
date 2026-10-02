@@ -1,33 +1,26 @@
 class Solution {
 public:
-
-    void generate(string curr,vector<string> &ans,int n,int left,int right,int size)
-    {
-
-        if(size==n*2)
-        {
-            ans.push_back(curr);
+    void backtrack(vector<string>& result, string current, int open, int close, int max) {
+        // Base case: if the current string length reaches 2 * n, we have a valid combination
+        if (current.length() == max * 2) {
+            result.push_back(current);
             return;
         }
 
-        if(left<n)
-        {
-            generate(curr+'(',ans,n,left+1,right,size+1);
-        }
-        if(right<left)
-        {
-        generate(curr+')',ans,n,left,right+1,size+1);
-
+        // If we can still add an open parenthesis, add it and recurse
+        if (open < max) {
+            backtrack(result, current + "(", open + 1, close, max);
         }
 
+        // If we can add a close parenthesis (close count must be less than open count), recurse
+        if (close < open) {
+            backtrack(result, current + ")", open, close + 1, max);
+        }
     }
 
     vector<string> generateParenthesis(int n) {
-        
-        vector<string> ans;
-        
-        generate("",ans,n,0,0,0);
-
-        return ans;
+        vector<string> result;
+        backtrack(result, "", 0, 0, n);
+        return result;
     }
 };
