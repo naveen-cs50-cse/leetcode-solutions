@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naveen-cs50-cse/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
